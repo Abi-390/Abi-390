@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi, I'm Abinash😊, I’m currently working on Frontend Development with React.js meanwhile learning Backend Development along with CI/CD and Langchain.
+# 💫 About Me
+
+Hi, I'm Abinash 😊  
+I'm a backend-leaning full-stack developer building web applications with React, Node.js, Express, and MongoDB.  
+Currently strengthening my backend skills, authentication systems, and APIs, while learning CI/CD and exploring LangChain integrations.
+
 
 
 ## 🌐 Socials:
