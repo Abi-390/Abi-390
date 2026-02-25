@@ -1,8 +1,8 @@
 # 💫 About Me
 
 Hi, I'm Abinash 😊  
-I'm a backend-leaning full-stack developer building web applications with React, Node.js, Express, and MongoDB.  
-Currently strengthening my backend skills, authentication systems, and APIs, while learning CI/CD and exploring LangChain integrations.
+I'm a backend-leaning AI-full-stack developer building web applications with React, Node.js, Express, and MongoDB.  
+Currently strengthening my backend skills, authentication systems, RAG & Vector DB integration for AI agents LTM & STM and APIs, while learning CI/CD and exploring LangChain integrations.
 
 
 
