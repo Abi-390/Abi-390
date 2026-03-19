@@ -1,8 +1,16 @@
 # 💫 About Me
 
-Hi, I'm Abinash 😊  
-I'm a backend-leaning AI-full-stack developer building web applications with React, Node.js, Express, and MongoDB.  
-Currently strengthening my backend skills, authentication systems, RAG & Vector DB integration for AI agents LTM & STM and APIs, while learning CI/CD and exploring LangChain integrations.
+Hi, I'm Abinash 👋  
+
+I'm a backend-focused developer building scalable web applications and AI-powered systems.  
+I work with React, Node.js, Express, and MongoDB, with a strong focus on backend architecture, authentication, and API design.
+
+Currently working as a Backend Trainee at Vantage Circle, where I’m gaining hands-on experience with real-world backend systems and development workflows.
+
+I’m also exploring AI integrations — working with RAG pipelines, vector databases, and building agents with short-term and long-term memory.  
+Additionally, I’m learning CI/CD to ship production-ready applications.
+
+I focus on building real-world projects that combine backend engineering with practical AI use cases.ns.
 
 
 
