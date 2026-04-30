@@ -1,12 +1,12 @@
-# 🧑‍🦱 About Me
+# About Me
 
-Hi, I'm Abinash 👋  
+Hi, I'm Abinash.
 
-I'm a backend-focused developer building scalable web applications and AI-powered systems.  
-I work with Scala + PlayFramework and MySQL (Quill) at @Vantage Circle along with a strong knowledge  on MERN backend architecture, authentication, and API design.
+I'm a backend developer building scalable web applications and AI-powered systems.  
+I work with Scala + PlayFramework and MySQL (Quill) at @Vantage Circle along with  knowledge  on MERN backend architecture, authentication, and API design.
 
-I’m also exploring AI integrations — working with RAG pipelines, vector databases, and building agents with short-term and long-term memory.  
-Additionally, I’m learning CI/CD to ship production-ready applications.
+I have also worked with AI integrations: implementing RAG pipelines, vector databases, and building agents with short-term and long-term memory.  
+Additionally, I’ve have deployed my various personal projects using Git, Docker, and hosting platforms like render and vercel.
 
 I focus on building real-world projects that combine backend engineering with practical AI use cases.ns.
 
