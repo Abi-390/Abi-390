@@ -1,22 +1,19 @@
-# About Me
-
-## Abinash Deka
+# Abinash Deka
 Software Engineer | Backend Systems & Applied AI
+* A dedicated Backend Developer specializing in the engineering of high-concurrency web architectures and the integration of sophisticated machine-learning workflows. Currently contributing to enterprise-grade systems at Vantage Circle, focusing on the Scala ecosystem and reactive backend paradigms.
 
-A dedicated Backend Developer specializing in the engineering of high-concurrency web architectures and the integration of sophisticated machine-learning workflows. Currently contributing to enterprise-grade systems at Vantage Circle, focusing on the Scala ecosystem and reactive backend paradigms.
+* Technical Core & Domain Expertise
+ - Systems Architecture: Extensive experience in developing asynchronous, non-blocking services utilizing Scala, the Play Framework, and MySQL.
 
-Technical Core & Domain Expertise
-Systems Architecture: Extensive experience in developing asynchronous, non-blocking services utilizing Scala, the Play Framework, and MySQL.
+ - Data Persistence & Modeling: Proficient in relational data mapping and compile-time language integrated queries using Quill.
 
-Data Persistence & Modeling: Proficient in relational data mapping and compile-time language integrated queries using Quill.
+ - Full-Stack Ecosystems: Demonstrated competency in MERN (MongoDB, Express, React, Node.js) architecture, specializing in decoupled API design and granular authorization protocols.
 
-Full-Stack Ecosystems: Demonstrated competency in MERN (MongoDB, Express, React, Node.js) architecture, specializing in decoupled API design and granular authorization protocols.
+ - Advanced Applied AI: Expertise in orchestrating Retrieval-Augmented Generation (RAG) pipelines. Experienced in managing Vector Databases and engineering autonomous agents featuring high-dimensional semantic memory and stateful context injection.
 
-Advanced Applied AI: Expertise in orchestrating Retrieval-Augmented Generation (RAG) pipelines. Experienced in managing Vector Databases and engineering autonomous agents featuring high-dimensional semantic memory and stateful context injection.
+- Infrastructure & DevOps: Proficient in containerization via Docker and maintaining robust CI/CD workflows through Git-based deployment on Vercel and Render.
 
-Infrastructure & DevOps: Proficient in containerization via Docker and maintaining robust CI/CD workflows through Git-based deployment on Vercel and Render.
-
-Engineering Philosophy
+* Engineering Philosophy
 My work is centered on the synthesis of traditional backend engineering with practical AI implementation, prioritizing system reliability, low-latency data retrieval, and the development of scalable, production-critical applications.
 
 
