@@ -1,15 +1,23 @@
 # About Me
 
-Hi, I'm Abinash.
+## Abinash Deka
+Software Engineer | Backend Systems & Applied AI
 
-I'm a backend developer building scalable web applications and AI-powered systems.  
-I work with Scala + PlayFramework and MySQL (Quill) at @Vantage Circle along with  knowledge  on MERN backend architecture, authentication, and API design.
+A dedicated Backend Developer specializing in the engineering of high-concurrency web architectures and the integration of sophisticated machine-learning workflows. Currently contributing to enterprise-grade systems at Vantage Circle, focusing on the Scala ecosystem and reactive backend paradigms.
 
-I have also worked with AI integrations: implementing RAG pipelines, vector databases, and building agents with short-term and long-term memory.  
-Additionally, I’ve have deployed my various personal projects using Git, Docker, and hosting platforms like render and vercel.
+Technical Core & Domain Expertise
+Systems Architecture: Extensive experience in developing asynchronous, non-blocking services utilizing Scala, the Play Framework, and MySQL.
 
-I focus on building real-world projects that combine backend engineering with practical AI use cases.ns.
+Data Persistence & Modeling: Proficient in relational data mapping and compile-time language integrated queries using Quill.
 
+Full-Stack Ecosystems: Demonstrated competency in MERN (MongoDB, Express, React, Node.js) architecture, specializing in decoupled API design and granular authorization protocols.
+
+Advanced Applied AI: Expertise in orchestrating Retrieval-Augmented Generation (RAG) pipelines. Experienced in managing Vector Databases and engineering autonomous agents featuring high-dimensional semantic memory and stateful context injection.
+
+Infrastructure & DevOps: Proficient in containerization via Docker and maintaining robust CI/CD workflows through Git-based deployment on Vercel and Render.
+
+Engineering Philosophy
+My work is centered on the synthesis of traditional backend engineering with practical AI implementation, prioritizing system reliability, low-latency data retrieval, and the development of scalable, production-critical applications.
 
 
 ## 🌐 Socials:
