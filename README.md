@@ -23,7 +23,7 @@ Demonstrated competency in **MERN** (MongoDB, Express, React, Node.js) architect
 Expertise in orchestrating **Retrieval-Augmented Generation (RAG)** pipelines. Experienced in managing **Vector Databases** and engineering autonomous agents featuring high-dimensional semantic memory and stateful context injection.
 
 **Infrastructure & DevOps**
-Proficient in containerization via **Docker** and maintaining robust **CI/CD** workflows through Git-based deployment on **Vercel** and **Render**.
+Proficient in containerization via **Docker** and maintaining robust **CI/CD** workflows through Git-based deployment.
 
 ---
 
