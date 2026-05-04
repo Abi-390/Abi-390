@@ -1,34 +1,25 @@
 # Abinash Deka
-### Software Engineer | Backend Systems & Applied AI
+### Backend Engineer & Applied AI
+ 📍 Guwahati, India | 🎓 BCA (A+, 8.66 CGPA) | 🛠 Scala, React, Node.js, AI
+
 
 ---
 
 #### Professional Summary
-A dedicated Backend Developer specializing in the engineering of high-concurrency web architectures and the integration of sophisticated machine-learning workflows. Currently contributing to enterprise-grade systems at **Vantage Circle**, focusing on the **Scala** ecosystem and reactive backend paradigms.
+
+I am a Backend Engineer specializing in high-concurrency systems and Applied AI. 
+Currently, I bridge the gap between traditional backend engineering and modern AI implementation, 
+focusing on system reliability, low-latency data retrieval, and production-grade applications.
+
+**Currently Working:** Backend Team at **Vantage Circle** (NATS Apprenticeship) onsite
+**Education:** BCA from **NERIM Group of Institutions** (Affiliated with Dibrugarh University)
+**Achievement:** **A+ Grade** (8.66 CGPA / 91.6%)
+**Stack:** Scala (Play Framework), Quill, Node.js, React, Docker, MySQL, MongoDB, Vector DBs
+**AI Focus:** RAG Pipelines, Vector Embeddings, Autonomous Agents
+
 
 ---
 
-#### Technical Core & Domain Expertise
-
-**Systems Architecture**
-Extensive experience in developing asynchronous, non-blocking services utilizing **Scala**, the **Play Framework**, and **MySQL**.
-
-**Data Persistence & Modeling**
-Proficient in relational data mapping and compile-time language integrated queries using **Quill**.
-
-**Full-Stack Ecosystems**
-Demonstrated competency in **MERN** (MongoDB, Express, React, Node.js) architecture, specializing in decoupled API design and granular authorization protocols.
-
-**Advanced Applied AI**
-Expertise in orchestrating **Retrieval-Augmented Generation (RAG)** pipelines. Experienced in managing **Vector Databases** and engineering autonomous agents featuring high-dimensional semantic memory and stateful context injection.
-
-**Infrastructure & DevOps**
-Proficient in containerization via **Docker** and maintaining robust **CI/CD** workflows through Git-based deployment.
-
----
-
-#### Engineering Philosophy
-My work is centered on the synthesis of traditional backend engineering with practical AI implementation, prioritizing system reliability, low-latency data retrieval, and the development of scalable, production-critical applications.
 
 
 ## 🌐 Socials:
