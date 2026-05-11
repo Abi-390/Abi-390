@@ -13,7 +13,7 @@ focusing on system reliability, low-latency data retrieval, and production-grade
 
 - **Currently Working:** Backend Team at **Vantage Circle** (NATS Apprenticeship) onsite
 - **Education:** BCA from **NERIM Group of Institutions** (Affiliated with Dibrugarh University)
-- **Achievement:** **A+ Grade** (8.66 CGPA / 91.6%)
+- **Achievement:** **A+ Grade** (91.6%)
 - **Stack:** Scala (Play Framework), Quill, Node.js, React, Docker, MySQL, MongoDB, Vector DBs
 - **AI Focus:** RAG Pipelines, Vector Embeddings, Autonomous Agents
 
