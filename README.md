@@ -1,6 +1,6 @@
 # Abinash Deka
 ### Backend Engineer & Applied AI
- 📍 Guwahati, India | 🎓 BCA (A+, 8.66 CGPA) | 🛠 Scala, React, Node.js, AI
+ 📍 Guwahati, India | 🎓 BCA (A+, 91.6%) | 🛠 Scala, React, Node.js, AI
 
 
 ---
